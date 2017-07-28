@@ -6,7 +6,7 @@ public class HelloWorld3 {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Getting git?");
+		System.out.println("Getting git?  Not really....");
 
 	}
 
